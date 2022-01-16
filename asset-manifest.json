@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/beachvolley/static/css/main.e6c13ad2.css",
+    "main.js": "/beachvolley/static/js/main.b562e3e7.js",
+    "static/js/787.e367e2c5.chunk.js": "/beachvolley/static/js/787.e367e2c5.chunk.js",
+    "index.html": "/beachvolley/index.html",
+    "main.e6c13ad2.css.map": "/beachvolley/static/css/main.e6c13ad2.css.map",
+    "main.b562e3e7.js.map": "/beachvolley/static/js/main.b562e3e7.js.map",
+    "787.e367e2c5.chunk.js.map": "/beachvolley/static/js/787.e367e2c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b562e3e7.js"
+  ]
+}
